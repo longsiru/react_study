@@ -1,6 +1,19 @@
 {
-  "printWidth": 200,
+  "printWidth": 800,
   "tabWidth": 2,
-  "singleQuote": true,
-  "trailingComma": "all"
+  "useTabs": false,
+  "semi": true,
+  "quoteProps": "as-needed",
+  "trailingComma": "all",
+  "bracketSpacing": true,
+  "jsxBracketSameLine": false,
+  "arrowParens": "always",
+  "requirePragma": false,
+  "insertPragma": false,
+  "htmlWhitespaceSensitivity": "ignore",
+  "vueIndentScriptAndStyle": false,
+  "endOfLine": "lf",
+  "embeddedLanguageFormatting": "auto",
+  "prettier.proseWrap": "preserve",
+  "vetur.format.defaultFormatter.js": "prettier"
 }
